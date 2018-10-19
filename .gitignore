@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs/RomanNumerals/v15
+/RomanNumerals/bin
+/RomanNumerals/obj
+/RomanNumerals.Test/bin/Debug/netcoreapp2.1
+/RomanNumerals.Test/obj
